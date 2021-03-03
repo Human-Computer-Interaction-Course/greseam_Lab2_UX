@@ -1,0 +1,19 @@
+img{
+    width: 100%;
+    height: auto;
+}
+
+li{
+    width: 40%;
+    padding-top: 2px;
+    padding-bottom: 4px;
+}
+
+p{
+    width: 50%;
+}
+
+.shift{
+    padding-left: 2%;
+}
+
